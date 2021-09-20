@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Islami App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="doaas">
+        <item>أستغفر اللّه</item>
+        <item>أعوذ بكلمات اللّه التامات من شر ما خلق</item>
+        <item>الحمد للّه</item>
+        <item>أستغفر اللّه العظيم</item>
+        <item>اللّه أكبر</item>
+        <item>اللهم اعف عنى</item>
+        <item>أستغفر اللّه العظيم وأتوب إليه</item>
+
+    </string-array>
+</resources>
