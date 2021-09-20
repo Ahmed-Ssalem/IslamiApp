@@ -20,6 +20,8 @@ Islami App provides the following features:
 
 ![video-1632144716](https://user-images.githubusercontent.com/62884380/134011767-3cb4349b-dccd-45b7-bd53-14501a5f405b.gif)
 
+>Screenshots.
+
 ![242304082_1813300575524317_2990312662136230702_n](https://user-images.githubusercontent.com/62884380/134011906-1419e3f3-48e2-43af-9582-569263d1e8a0.jpg)
 
 
