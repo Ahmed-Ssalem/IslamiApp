@@ -4,15 +4,15 @@
 ## Description
 Islami App provides the following features:
 
--- Reading.
+> Reading.
 - Reading the Noble Quran in calm colors that are comfortable for the eye.
 - Reading many hadiths of the Prophet.
 
--- The Electronic Rosary. 
+> The Electronic Rosary. 
 
 - The electronic rosarry makes it easier for you to praise, provides you with many dhikrs, and the number of dhikrs that you praise.
 
--- Audio recitations.
+> Audio recitations.
 
 - Listen to Quran recitations with the voice of more than 100 famous reciters.
 
