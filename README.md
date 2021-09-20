@@ -1,4 +1,17 @@
 # IslamiApp
+- Most advanced Quran app for Android devices with ease in reading and listening to Quran on the go.
+
+## Description
+Islami App provides the following features:
+-- Reading.
+- Reading the Noble Quran in calm colors that are comfortable for the eye.
+- Reading many hadiths of the Prophet.
+--The Electronic Rosary. 
+- The electronic rosarry makes it easier for you to praise, provides you with many dhikrs, and the number of dhikrs that you praise.
+-- Audio recitations.
+- Listen to Quran recitations with the voice of more than 100 famous reciters.
+
+## Example of Application.
 
 ![video-1632144716](https://user-images.githubusercontent.com/62884380/134011767-3cb4349b-dccd-45b7-bd53-14501a5f405b.gif)
 
