@@ -1,5 +1,5 @@
 # IslamiApp
-- Most advanced Quran app for Android devices with ease in reading and listening to Quran on the go.
+- Quran app for Android devices with ease in reading and listening to Quran on the go.
 
 ## Description
 Islami App provides the following features:
