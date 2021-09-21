@@ -10,7 +10,7 @@ Islami App provides the following features:
 
 > The Electronic Rosary
 
-- The electronic rosarry makes it easier for you to praise, provides you with many dhikrs, and the number of dhikrs that you praise.
+- The electronic rosary makes it easier for you to praise, provides you with many invocation.
 
 > Audio recitations
 
